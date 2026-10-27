@@ -619,7 +619,7 @@ export default function Login({ onNavigate }: Props) {
                       type="email"
                       value={email}
                       onChange={(e) => setEmail(e.target.value)}
-                      placeholder="name@vit.edu.in"
+                      placeholder="shreya.surve@vit.edu.in"
                       className="w-full h-10 px-3.5 rounded-lg border border-[#E2E8F0] bg-[#F8FAFC] text-[14px] text-[#1E293B] placeholder:text-[#94A3B8] focus:outline-none focus:border-[#2563EB] focus:ring-2 focus:ring-[#2563EB]/10 transition-all"
                     />
                   </div>
@@ -743,7 +743,7 @@ export default function Login({ onNavigate }: Props) {
                         type="email"
                         value={resetEmail}
                         onChange={(e) => setResetEmail(e.target.value)}
-                        placeholder="name@vit.edu.in"
+                        placeholder="shreya.surve@vit.edu.in"
                         autoFocus
                         className="w-full h-10 px-3.5 rounded-lg border border-[#E2E8F0] bg-[#F8FAFC] text-[14px] text-[#1E293B] placeholder:text-[#94A3B8] focus:outline-none focus:border-[#2563EB] focus:ring-2 focus:ring-[#2563EB]/10 transition-all"
                       />
