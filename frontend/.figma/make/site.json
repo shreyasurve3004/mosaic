@@ -1,0 +1,11 @@
+{
+  "title": "Mosaic",
+  "description": "Streamline campus life with a unified platform for academics, assignments, events, and student services, enhancing organization and accessibility for students.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
