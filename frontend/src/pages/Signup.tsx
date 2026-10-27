@@ -1231,7 +1231,7 @@ export default function Signup({ onNavigate }: Props) {
                     <Input
                       icon={<IconMail />}
                       type="email"
-                      placeholder="name@university.edu"
+                      placeholder="shreya.surve@vit.edu.in"
                       value={base.email}
                       onChange={setB("email")}
                       error={!!errors.email}
